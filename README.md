@@ -31,7 +31,11 @@ This project demonstrates how to:
 
 ## Installation
 
-Install the required libraries using pip: pip install requests pandas matplotlib plotly
+Install the required libraries using pip: 
+python -m pip install requests pandas matplotlib plotly
+
+Link for the downloading data code
+https://github.com/jeanmarc-webdev/working-with-apis
 
 
 
