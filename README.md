@@ -31,10 +31,12 @@ This project demonstrates how to:
 
 ## Installation
 
-Install the required libraries using pip:
+Install the required libraries using pip: pip install requests pandas matplotlib plotly
+
 
 ```
-pip install requests pandas matplotlib plotly
 
 Link for Working with APIS portfolio
 https://github.com/jeanmarc-webdev/working-with-apis-portfolio
+
+
