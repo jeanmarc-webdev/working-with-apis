@@ -34,9 +34,5 @@ This project demonstrates how to:
 Install the required libraries using pip: pip install requests pandas matplotlib plotly
 
 
-```
-
-Link for Working with APIS portfolio
-https://github.com/jeanmarc-webdev/working-with-apis-portfolio
 
 
