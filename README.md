@@ -33,7 +33,7 @@ This project demonstrates how to:
 
 Install the required libraries using pip:
 
-```bash
+```
 pip install requests pandas matplotlib plotly
 
 Link for Working with APIS portfolio
